@@ -1,4 +1,4 @@
-# Data React Vite Frontend Project
+# Flask Fullstack Project - Frontend
 
 This project is a React frontend application that should consume a Flask API.
 
