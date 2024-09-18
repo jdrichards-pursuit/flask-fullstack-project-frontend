@@ -1,6 +1,6 @@
 # Flask Fullstack Project - Frontend
 
-This project is a React frontend application that should consume a Flask API.
+This project is a React frontend application that should consume a Flask API. Try using AI to generate your code for your frontend. See how for you can go.
 
 ## Getting Started
 
